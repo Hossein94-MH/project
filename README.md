@@ -1,4 +1,4 @@
-# car scraping
+# Car Scraping
 project/
 ├── scraper.py
 ├── README.md
